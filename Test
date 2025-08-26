@@ -1,8 +1,4 @@
-# hello.py
-# Simple program to print message
+#!/bin/bash
+# This is my first shell script
 
-def say_hello():
-    print("Hello, GitHub! This is my first repository file.")
-
-if __name__ == "__main__":
-    say_hello()
+echo "My name is punith and This is my personal project"
