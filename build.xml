@@ -1,0 +1,5 @@
+<project name="SampleWebApp" default="compile">
+    <target name="compile">
+        <echo>Build Success - Ant script is working!</echo>
+    </target>
+</project>
